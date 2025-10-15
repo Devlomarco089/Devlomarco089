@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Devlomarco089/Devlomarco089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey,I'm Marco
 
-Here are some ideas to get you started:
+* I am a Data Engineer from Argentine 🇦🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Visit my website
+
+* Techstack: `.py`,`.java`,`.css`,`.html`,`.js`
+
+
+
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devlomarco089&theme=dracula)](https://git.io/streak-stats)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devlomarco089&layout=compact)
